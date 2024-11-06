@@ -4961,3 +4961,17 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.06-21.12.48:404][457]LogExit: Transaction tracking system shut down
 [2024.11.06-21.12.48:745][457]LogExit: Object subsystem successfully closed.
 [2024.11.06-21.12.48:777][457]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.06-21.12.49:759][457]MemoryProfiler: Shutdown
+[2024.11.06-21.12.49:759][457]NetworkingProfiler: Shutdown
+[2024.11.06-21.12.49:760][457]LoadingProfiler: Shutdown
+[2024.11.06-21.12.49:760][457]TimingProfiler: Shutdown
+[2024.11.06-21.12.49:959][457]LogOpenImageDenoise: OIDN shutting down
+[2024.11.06-21.12.50:352][457]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.11.06-21.12.50:352][457]RenderDocPlugin: plugin has been unloaded.
+[2024.11.06-21.12.50:387][457]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.11.06-21.12.50:387][457]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B836155A8-4695-BFD0-8AB2-AAB5E30AABC3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=a2f2be074ab710263e44a5bb6a7fb5b5%7Cabf97de4468648d6b3bacd0ada3dfb4f%7C8786a9e3-8f8e-446b-bdab-08e3f491a69f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.11.06-21.12.50:415][457]LogXGEController: Cleaning working directory: C:/Users/justi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.06-21.12.50:421][457]LogPakFile: Destroying PakPlatformFile
+[2024.11.06-21.12.50:656][457]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.11.06-21.12.50:696][457]LogExit: Exiting.
+[2024.11.06-21.12.50:997][457]Log file closed, 11/06/24 16:12:50
