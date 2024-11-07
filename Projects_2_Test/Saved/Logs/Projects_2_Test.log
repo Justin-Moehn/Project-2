@@ -2876,3 +2876,23 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.11.07-20.33.02:343][292]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.11.07-20.33.02:343][292]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
 [2024.11.07-20.33.02:343][292]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.11.07-20.33.03:092][292]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.11.07-20.33.03:191][292]LogExit: Editor shut down
+[2024.11.07-20.33.03:193][292]LogExit: Transaction tracking system shut down
+[2024.11.07-20.33.03:488][292]LogExit: Object subsystem successfully closed.
+[2024.11.07-20.33.03:523][292]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.11.07-20.33.04:418][292]MemoryProfiler: Shutdown
+[2024.11.07-20.33.04:419][292]NetworkingProfiler: Shutdown
+[2024.11.07-20.33.04:419][292]LoadingProfiler: Shutdown
+[2024.11.07-20.33.04:420][292]TimingProfiler: Shutdown
+[2024.11.07-20.33.04:678][292]LogOpenImageDenoise: OIDN shutting down
+[2024.11.07-20.33.05:223][292]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.11.07-20.33.05:288][292]RenderDocPlugin: plugin has been unloaded.
+[2024.11.07-20.33.05:316][292]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.11.07-20.33.05:317][292]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B276D007A-4F97-638E-18BE-9D8DAE4019E3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=cc2a9f8340a5824018d959b9e2cc822f%7C%7Cf8bb8602-e1e5-48c0-be39-b5263577efb2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.11.07-20.33.05:901][292]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2024.11.07-20.33.05:906][292]LogXGEController: Cleaning working directory: C:/Users/Moehnj/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.11.07-20.33.05:911][292]LogPakFile: Destroying PakPlatformFile
+[2024.11.07-20.33.06:090][292]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.11.07-20.33.06:123][292]LogExit: Exiting.
+[2024.11.07-20.33.06:217][292]Log file closed, 11/07/24 15:33:06
